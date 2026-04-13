@@ -1,0 +1,42 @@
+# 🔹 Virtual Environment
+.venv/
+venv/
+env/
+
+# 🔹 Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# 🔹 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔹 Model weights (IMPORTANT ❌ don't upload)
+*.pt
+*.pth
+
+# 🔹 Large dataset files
+*.bin
+*.csv
+*.zip
+
+# 🔹 Logs & runs
+runs/
+logs/
+
+# 🔹 Generated files (images, outputs)
+*.css
+*.jpg
+*.jpeg
+*.pdf
+
+# 🔹 System files
+.DS_Store
+Thumbs.db
+
+# 🔹 VS Code settings (optional)
+.vscode/
+
+# 🔹 Temporary files
+*.tmp
+*.log
